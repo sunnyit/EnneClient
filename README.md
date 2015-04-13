@@ -11,4 +11,4 @@
 
 >[永吉嗯呢网](https://cdn.rawgit.com/sunnyit/EnneClient/29ee53fbaf7822f98962adbb51e39620e3334f21/EnneClient-YJ.html)
 
->[双阳嗯呢网](https://cdn.rawgit.com/sunnyit/EnneClient/29ee53fbaf7822f98962adbb51e39620e3334f21/EnneClient-SY.html)
+>[双阳嗯呢网](https://cdn.rawgit.com/sunnyit/EnneClient/8684298539f5e08a133084500c0a30ea600afcd5/EnneClient-SY.html)
